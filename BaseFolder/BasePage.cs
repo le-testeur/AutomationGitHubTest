@@ -1,7 +1,7 @@
 
 namespace AutomationGitHubTest.BaseFolder
 {
-    public class LaunchAndQuitBrowser // This is a BranchOne
+    public class LaunchAndQuitBrowser
     {
         public IWebDriver driver;
         [SetUp]
