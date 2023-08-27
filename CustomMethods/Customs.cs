@@ -27,7 +27,6 @@ namespace AutomationGitHubTest.CustomMethods
             {
                 IJavaScriptExecutor js = (IJavaScriptExecutor)driver;
                 js.ExecuteScript("arguments[0].scrollIntoView();", element);
-               
             }
             
         }
